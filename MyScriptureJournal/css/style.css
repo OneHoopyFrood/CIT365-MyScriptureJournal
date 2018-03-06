@@ -1,0 +1,18 @@
+body {
+    font-family: 'Roboto';
+}
+
+header{
+    margin: 30px 0 10px;
+}
+header h1,
+header img{
+    display: inline-block;
+}
+header img {
+    margin-bottom: 30px;
+}
+
+.search {
+    margin-bottom: 20px;
+}
