@@ -16,3 +16,7 @@ header img {
 .search {
     margin-bottom: 20px;
 }
+
+.scriptures .pager > td {
+    text-align: center;
+}

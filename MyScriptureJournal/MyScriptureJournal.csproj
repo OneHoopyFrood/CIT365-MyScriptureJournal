@@ -100,6 +100,10 @@
     <Content Include="css\webfonts\fa-brands-400.svg" />
     <Content Include="css\webfonts\fa-regular-400.svg" />
     <Content Include="css\webfonts\fa-solid-900.svg" />
+    <Content Include="EditScripture.cshtml" />
+    <Content Include="AddScripture.cshtml" />
+    <Content Include="MsgPage.cshtml" />
+    <Content Include="DeleteScripture.cshtml" />
     <None Include="packages.config" />
     <Content Include="css\style.css" />
     <Content Include="css\vendor\bootstrap-grid.min.css" />
@@ -107,7 +111,8 @@
     <Content Include="css\vendor\bootstrap.min.css" />
     <Content Include="fair-use-scripture-icon.png" />
     <Content Include="favicon.ico" />
-    <Content Include="Scriptures.cshtml" />
+    <Content Include="index.cshtml" />
+    <Content Include="Shared\HeaderHead.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
